@@ -6,6 +6,10 @@ SHA-256: `e3090ec84a3ff7bd9c44692359e600a37d9dd4f052182380bdf8d0db10f951ce`.
 
 The Result viewer centers the scene and positions a camera; geometry, UVs, textures and material properties are unchanged. The other two supplied GLBs remain untouched in Downloads and are not combined automatically: their alignment/topology has not been approved as interchangeable stages.
 
+## Intact personal History apple (2026-11-07)
+
+`red-apple-original.glb` is an exact copy of the user's `红色苹果.glb` (65,059,032 bytes), SHA-256 `e11b0ef8b375899e3c9ca3e28fb1028c77df03348cea4d614af395a9eb1ab566`. History personal apples now use this intact supplied shape, with broad runtime plaster areas and individual uncut paper sheets. It replaces only the rejected fragmented personal History rendering. The Result model and all exhibition PNGs remain unchanged.
+
 ## Pending text correction
 
 The model contains one mesh/material. English lettering is baked into a 4096×4096 color atlas, with split/rotated UV islands, not editable text nodes. Original spelling artifacts remain, especially on the sides and back. Do not describe external callouts as a correction of baked text.
